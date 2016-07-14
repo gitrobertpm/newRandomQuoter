@@ -1,0 +1,2 @@
+# newRandomQuoter
+Random quote generator
